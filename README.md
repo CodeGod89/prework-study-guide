@@ -17,7 +17,7 @@ Buy a mac computer 2021 and up
 ## Usage
 
 Each note sections gives you details on how to use, HTML, CSS, Javascript along with Git.
-Please use my notes I have provided, open Chrome de tool to see Javascript running.
+Please use my notes I have provided, open Chrome dev tool to see Javascript running.
 
 To support my journey cash app.  $sundayrunday
 
